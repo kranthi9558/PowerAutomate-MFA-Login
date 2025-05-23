@@ -95,4 +95,4 @@ With this setup:
 
 ## 🗨️ Questions or Feedback?
 
-Feel free to raise an issue or connect with me on [LinkedIn]([https://www.linkedin.com/in/YOUR_PROFILE_LINK](https://www.linkedin.com/in/devarapallykranthikumar/)).
+Feel free to raise an issue or connect with me on [LinkedIn]([https://www.linkedin.com/in/devarapallykranthikumar]).
