@@ -75,11 +75,11 @@ print(code)
 
 ### 🔸 Flow Overview
 
-![Flow Overview](images/flow-overview.png)
+![Flow Overview](flow-overview.png)
 
 ### 🔸 Run DOS Command Step
 
-![Run DOS Command](images/pad-dos-command.png)
+![Run DOS Command](pad-dos-command.png)
 
 ---
 
